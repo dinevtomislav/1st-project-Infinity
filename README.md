@@ -9,6 +9,6 @@ A quiz game to help students between the age range of 11-14 pick GCSE subjects b
 JavaScript, HTML, CSS, Node, Git, Github, Express API, 
 
 # Process
-Agile Methodology, 
+
 
 # Licence
