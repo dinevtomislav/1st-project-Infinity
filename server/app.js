@@ -13,16 +13,16 @@ app.get('/', (req, res) => {
     res.send(`Welcome to the quotes API! There are ${quotes.length} available.`);
 })
 
-app.get('/quotes', (req, res) => {
+app.get('/subjects', (req, res) => {
     res.send(quotes);
 })
 
-app.get('/quotes/random', (req, res) => {
+app.get('/questions', (req, res) => {
     const randIdx =  Math.floor(Math.random() * quotes.length)
     res.send(quotes[randIdx]);
 })
 
-app.get('/quotes/:id', (req, res) => {
+app.get('/questions/:id', (req, res) => {
     const idx = req.params.id;
 
     const quote = quotes[idx-1]
@@ -36,7 +36,7 @@ app.get('/quotes/:id', (req, res) => {
 
 })
 
-app.post("/quotes", (req, res) => {
+app.post("/", (req, res) => {
     const quote = req.body; 
 
     quotes.push(quote)

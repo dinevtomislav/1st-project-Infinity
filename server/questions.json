@@ -239,117 +239,119 @@
         
         },
         {
-        "question": "In The Lord of the Rings trilogy, what is the name of the wizard who helps Frodo and the other characters on their journey?",
+        "question3": "What is the only language that is also an Olympic event?",
         "A": "Gandalf",
-        "B": "Dumbledore",
-        "C": "Merlin",
-        "D":  "Yoda",
-        "answer": "A"
+        "B": "French",
+        "C": "Spanish",
+        "D":  "English",
+        "answer": "D"
             
         },
          {
-        "question": "In The Lord of the Rings trilogy, what is the name of the wizard who helps Frodo and the other characters on their journey?",
-        "A": "Gandalf",
-        "B": "Dumbledore",
-        "C": "Merlin",
-        "D":  "Yoda",
-        "answer": "A"
+        "question4": "What is the longest word in the English language?",
+        "A": "Antidisestablishmentarianism",
+        "B": "Supercalifragilisticexpialidocious",
+        "C": "Pneumonoultramicroscopicsilicovolcanoconiosis",
+        "D":  "Hippopotomonstrosesquipedaliophobia",
+        "answer": "C"
                 
         },
         {
-        "question": "In The Lord of the Rings trilogy, what is the name of the wizard who helps Frodo and the other characters on their journey?",
-        "A": "Gandalf",
-        "B": "Dumbledore",
-        "C": "Merlin",
-        "D":  "Yoda",
+        "question5": "What language is spoken in Brazil?",
+        "A": "Portuguese",
+        "B": "Spanish",
+        "C": "French",
+        "D":  "Italian",
         "answer": "A"
                     
         }]
     },{ "Music":[ {
-        "question": "In The Lord of the Rings trilogy, what is the name of the wizard who helps Frodo and the other characters on their journey?",
-        "A": "Gandalf",
-        "B": "Dumbledore",
-        "C": "Merlin",
-        "D":  "Yoda",
+        "question1": "What is the name of Beyoncé's alter ego?",
+        "A": "Sasha Fierce",
+        "B": "Lady Gaga",
+        "C": "Pink",
+        "D":  "Rihanna",
         "answer": "A"
         },
         {
-        "question": "In The Lord of the Rings trilogy, what is the name of the wizard who helps Frodo and the other characters on their journey?",
-        "A": "Gandalf",
-        "B": "Dumbledore",
-        "C": "Merlin",
-        "D":  "Yoda",
+        "question2": "Who wrote the hit song 'Thriller'?",
+        "A": "Michael Jackson",
+        "B": "Prince",
+        "C": "Madonna",
+        "D":  "Whitney Houston",
         "answer": "A"
         
         },
         {
-        "question": "In The Lord of the Rings trilogy, what is the name of the wizard who helps Frodo and the other characters on their journey?",
-        "A": "Gandalf",
-        "B": "Dumbledore",
-        "C": "Merlin",
-        "D":  "Yoda",
-        "answer": "A"
+        "question3": "Which of these is not a type of musical instrument?",
+        "A": "Trumpet",
+        "B": "Tuba",
+        "C": "Triangle",
+        "D":  "Trampoline",
+        "answer": "D"
             
         },
          {
-        "question": "In The Lord of the Rings trilogy, what is the name of the wizard who helps Frodo and the other characters on their journey?",
-        "A": "Gandalf",
-        "B": "Dumbledore",
-        "C": "Merlin",
-        "D":  "Yoda",
+        "question4": "What is the name of the lead singer of the band Coldplay?",
+        "A": "Chris Martin",
+        "B": "Liam Gallagher",
+        "C": "Bono",
+        "D":  "Dave Grohl",
         "answer": "A"
                 
         },
         {
-        "question": "In The Lord of the Rings trilogy, what is the name of the wizard who helps Frodo and the other characters on their journey?",
-        "A": "Gandalf",
-        "B": "Dumbledore",
-        "C": "Merlin",
-        "D":  "Yoda",
-        "answer": "A"
+        "question5": "Which band performed the hit song 'Stairway to Heaven'?",
+        "A": "The Rolling Stones",
+        "B": "Led Zeppelin",
+        "C": "Pink Floyd",
+        "D":  "The Beatles",
+        "answer": "B"
                     
         }]
-    },{ "Physical Education":[ {
-        "question": "In The Lord of the Rings trilogy, what is the name of the wizard who helps Frodo and the other characters on their journey?",
-        "A": "Gandalf",
-        "B": "Dumbledore",
-        "C": "Merlin",
-        "D":  "Yoda",
-        "answer": "A"
+    },
+    
+    { "Physical Education":[ {
+        "question1": "What is the name of the largest muscle in the human body?",
+        "A": "Biceps",
+        "B": "Hamstring",
+        "C": "Gluteus maximus",
+        "D":  "Pectoralis major",
+        "answer": "C"
         },
         {
-        "question": "In The Lord of the Rings trilogy, what is the name of the wizard who helps Frodo and the other characters on their journey?",
-        "A": "Gandalf",
-        "B": "Dumbledore",
-        "C": "Merlin",
-        "D":  "Yoda",
+        "question2": "What is the name of the system that controls the body's movements?",
+        "A": "Nervous system",
+        "B": "Digestive system",
+        "C": "Respiratory system",
+        "D":  "Cardiovascular system",
         "answer": "A"
         
         },
         {
-        "question": "In The Lord of the Rings trilogy, what is the name of the wizard who helps Frodo and the other characters on their journey?",
-        "A": "Gandalf",
-        "B": "Dumbledore",
-        "C": "Merlin",
-        "D":  "Yoda",
-        "answer": "A"
+        "question3": "What is the minimum amount of exercise recommended per day for adults?",
+        "A": "5 minutes",
+        "B": "30 minutes",
+        "C": "1 hour",
+        "D":  "2 hour",
+        "answer": "B"
             
         },
          {
-        "question": "In The Lord of the Rings trilogy, what is the name of the wizard who helps Frodo and the other characters on their journey?",
-        "A": "Gandalf",
-        "B": "Dumbledore",
-        "C": "Merlin",
-        "D":  "Yoda",
-        "answer": "A"
+        "question4": "Which of these is not a type of stretching?",
+        "A": "Static stretching",
+        "B": "Dynamic stretching",
+        "C": "Acrobatic stretching",
+        "D":  "Ballistic stretching",
+        "answer": "C"
                 
         },
         {
-        "question": "In The Lord of the Rings trilogy, what is the name of the wizard who helps Frodo and the other characters on their journey?",
-        "A": "Gandalf",
-        "B": "Dumbledore",
-        "C": "Merlin",
-        "D":  "Yoda",
+        "question5": "What is the name of the highest score achievable in gymnastics?",
+        "A": "Perfect 10",
+        "B": "Superb 7",
+        "C": "Excellent 9",
+        "D":  "Magnificent 8",
         "answer": "A"
                     
         }]
