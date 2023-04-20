@@ -411,3 +411,7 @@ incrementScore = num =>{
     scoreText.innerText = score;
 }
 startGame();
+
+module.exports = {questions,
+    startGame,
+    getNewQuestion};

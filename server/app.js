@@ -1,6 +1,6 @@
 const express = require('express');
 const cors = require('cors');
-const questions = require('./questions.json')
+const questions = require('./questions')
 const logger = require("./logger");
 const app = express();
 app.use(cors());
