@@ -5,23 +5,21 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./assets/index.css">
-    <title>Computing Wisdom</title>
+    <title>GCSE Trivia</title>
     <script src="./assets/index.js" defer></script>
 </head>
 <body>
+    <header> 
+        <img class="logo" src="./assets/images/logo.png">
+    </header>
     <section>
-        <h1>Computing Wisdom</h1>
-        <div id="container">
-            <h3 id="text"></h3>
-            <em id="author"></em>
-        </div>
-        <button id="btn-randomise">Be Inspired</button>
+        <h1>GCSE Subjects Trivia</h1>
+        <h3>Find GCSE subjects that you are likely to excel in!</h3>
+
+        <button class="btn-all">
+            <a href="quiz.html">START QUIZ</a></button>
         <br>
-        <form id="create-form">
-            <input type="text" name="name" placeholder="name">
-            <input type="text" name="author" placeholder="author">
-            <input type="submit" value="Create"> 
-        </form>
+        <h3>Highest Score: <span id ="high-score"></span></h3>
     </section>
 </body>
 </html>
