@@ -12,7 +12,7 @@ A quiz game to help students between the age range of 11-14 pick GCSE non-STEM s
 5. Go back to main folder and after that move into the client folder to access the index.html which will start the whole project.
 
 ## Technologies
-JavaScript, HTML, CSS, Node, Git, Github, Express API
+JavaScript, HTML, CSS, Node, Git, Github, Express API,CORS
 
 ## Process
 ### Front End:  
